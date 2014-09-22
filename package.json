@@ -1,0 +1,16 @@
+{
+  "name": "soup",
+  "version": "0.0.0",
+  "description": "Returns today's soup from Pret and Eat.",
+  "main": "app.coffee",
+  "author": "Josh McMillan <josh@joshmcmillan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "coffee-script": "^1.8.0",
+    "express": "^4.9.4",
+    "memory-cache": "0.0.5",
+    "request": "^2.44.0"
+  }
+}
